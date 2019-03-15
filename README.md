@@ -1,5 +1,7 @@
 # ProiectMDS
 
+## [Backlog](https://www.pivotaltracker.com/n/projects/2318653)
+
 ## User Stories
 
 * Ca elev vreau sa aleg ce tip de probleme sa rezolv
@@ -27,3 +29,7 @@
     - Verificarea fiecarui pas
 * Won't
     - .
+
+## UML 
+
+![Use Cases](./UML/UseCases.jpg "Use Cases")
